@@ -1,0 +1,2 @@
+# ModuleBintrayAndjCenter
+將Module上傳到bintray並add to jCenter的過程紀錄
