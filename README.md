@@ -19,19 +19,27 @@
 
 這邊有一個坑就是
 
-一定要選擇註冊OSS的
-[傳送門這裡](https://bintray.com/signup/oss)
+一定要選擇註冊OSS的(右邊 `Sign Up to an Open Source account`)
+
+<img src="https://github.com/Samuel-Hsieh/ModuleBintrayAndjCenter/blob/master/png/07.png" width="75%"/>
+
+<img src="https://github.com/Samuel-Hsieh/ModuleBintrayAndjCenter/blob/master/png/08.png" width="50%"/>
+
+[註冊傳送門這裡](https://bintray.com/signup/oss)
 
 如果選擇 Enterprise Edition Trial 會沒辦法Add to jCenter
 
 <h2>Step 2. 創建一個屬於自己的repository</h2>
 
+大概創一下
 
-
+<img src="https://github.com/Samuel-Hsieh/ModuleBintrayAndjCenter/blob/master/png/01.png" width="400"/>
 
 <h2>Step 3. 創建Repository裡的Package</h2>
 
+大概創一下
 
+<img src="https://github.com/Samuel-Hsieh/ModuleBintrayAndjCenter/blob/master/png/02.png" width="400"/>
 
 <h2>Step 4. 配置Gradle Bintray的插件</h2>
 
@@ -56,11 +64,11 @@
 
 可以在這找到你的Key
 
-//圖片
+<img src="https://github.com/Samuel-Hsieh/ModuleBintrayAndjCenter/blob/master/png/05.png" width="75%"/>
 
-可以在這找到你的username
+可以在這找到你的username (ex: medathsieh)
 
-//圖片
+<img src="https://github.com/Samuel-Hsieh/ModuleBintrayAndjCenter/blob/master/png/04.png" width="400"/>
 
 然後貼到local.properties裡
 
@@ -140,6 +148,8 @@
 沒問題的話會看到
 
 BUILD SUCCESSFUL
+
+<img src="https://github.com/Samuel-Hsieh/ModuleBintrayAndjCenter/blob/master/png/06.png" width="75%"/>
 
 <h2>Step 8. Add to jCenter</h2>
 
