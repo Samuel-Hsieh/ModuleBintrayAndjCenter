@@ -124,7 +124,7 @@
 	    configurations = ['archives']
 	    pkg {
 	        repo = "AndroidLib"       //Bintray上repository的名稱
-	        name = "DeerActionBar"    //發佈出去的名稱
+	        name = "DeerActionBar"    //Bintray上package的名字
 	        licenses = ["Apache-2.0"]
 	        publish = true
 	    }
@@ -132,7 +132,7 @@
 
 開頭的group = "com.samuelhsieh"
 
-還有發佈出去的名稱name = "DeerActionBar"
+Module的名稱 = "DeerActiobBar"
 
 最前面的version = "1.0.0"
 
