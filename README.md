@@ -7,7 +7,7 @@
 
 在build.gradle(Module)的dependencies裡，只要使用一句
 
-<code>compile 'com.samuelhsieh:DeerActiobBar:1.0.0'</code>
+如：<code>compile 'com.samuelhsieh:DeerActiobBar:1.0.0'</code>
 
 就可以方便的從jCenter上載下來使用
 
